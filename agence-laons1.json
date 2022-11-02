@@ -1,5 +1,4 @@
 {
-    // Query is not required as of version 1.2.5
     "query": "Unit",
     "suggestions": [
   {
