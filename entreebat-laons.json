@@ -1,4 +1,6 @@
-[
+{
+    "query": "Unit",
+    "suggestions": [
   {
     "value": 1
   },
@@ -317,4 +319,4 @@
   {
     "value": "L/3"
   }
-]
+]}
