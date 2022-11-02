@@ -1,4 +1,6 @@
-[
+{
+    "query": "Unit",
+    "suggestions": [
   {
     "value": "1 Boulevard Liautey-2 Boulevard Delattre"
   },
@@ -290,4 +292,4 @@
   {
     "value": "RUE DE BERTHELOT"
   }
-]
+]}
