@@ -1,4 +1,6 @@
-[
+{
+    "query": "Unit",
+    "suggestions": [
   {
     "value": "1 bis/2-3-4-6 rue Serurier"
   },
@@ -374,4 +376,4 @@
   {
     "value": "SELMER"
   }
-]
+]}
