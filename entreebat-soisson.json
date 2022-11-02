@@ -1,4 +1,6 @@
-[
+{
+    "query": "Unit",
+    "suggestions": [
   {
     "value": "0001"
   },
@@ -161,4 +163,4 @@
   {
     "value": "4BIS"
   }
-]
+]}
